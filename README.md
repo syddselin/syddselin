@@ -11,7 +11,7 @@ I am a passionate Cloud Engineer with a focus on building scalable and secure cl
 - A static website hosted on Azure Storage with a visitor counter built using Azure Functions and .NET.
 - Technologies Used: HTML, CSS, JavaScript, .NET
 
-[View Live Project](https://scfunction.z16.web.core.windows.net/)
+    [View Live Project](https://scfunction.z16.web.core.windows.net/)
 
 ## 🏅 Achievements
 
