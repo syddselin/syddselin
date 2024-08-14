@@ -21,5 +21,5 @@ I am a passionate Cloud Engineer with a focus on building scalable and secure cl
 
 ## 📫 How to reach me
 - **LinkedIn:** [Selin Çelik](nkedin.com/in/selin-celik/)
-- **Medium:** [@selicelik](https://medium.com/@selincelik)
+- **Medium:** [@selincelik](https://medium.com/@selincelik)
 
