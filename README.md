@@ -20,6 +20,6 @@ I am a passionate Cloud Engineer with a focus on building scalable and secure cl
 
 
 ## 📫 How to reach me
-- **LinkedIn:** [John Doe](nkedin.com/in/selin-celik/)
-- **Medium:** [@johndoe](https://medium.com/@selincelik)
+- **LinkedIn:** [Selin Çelik](nkedin.com/in/selin-celik/)
+- **Medium:** [@selicelik](https://medium.com/@selincelik)
 
